@@ -1,0 +1,21 @@
+{
+  "name": "Eagle Core Auth",
+  "description": "Authentication rest api for Hasura GraphQL Engine.",
+  "logo": "https://avatars0.githubusercontent.com/u/38388629?s=200&v=4",
+  "keywords": [
+    "auth",
+    "api",
+    "graphql",
+    "heroku",
+    "postgres",
+    "hasura"
+  ],
+  "website": "https://www.arpixnet.com",
+  "repository": "https://github.com/arpixnet/eagle-core-auth-heroku",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "stack": "container"
+}
